@@ -47,3 +47,5 @@ If this runs successfully we will have verified that your command line is setup 
 ### Run locally
 
 In your terminal run `./gradlew bootrun`. Then navigate to http://localhost:8080/v1/products in your browser to test the app is running.
+=======
+# shopping-cart-java
